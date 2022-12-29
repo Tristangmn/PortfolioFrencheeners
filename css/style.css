@@ -1,0 +1,56 @@
+h1{
+    color : black;
+    font-family : Arial;
+}
+
+
+.menu-nav ul li.btn{
+    list-style-type : none;
+    display : inline-block;
+    float : right;
+}
+
+
+.menu-nav ul li.btn a{
+    color : white;
+    background-color : #27BEFF;
+    padding : 10px;
+    font-weight : bold;
+    text-decoration : none;
+    border : 1px solid #27BEFF;
+    /*border-radius : 10px*/
+
+}
+
+.menu-nav ul li.btn:hover a{
+    color : #27BEFF;
+    background-color : white;
+}
+
+.arm-logo{
+    float : center;
+}
+
+/*.social{
+    display : inline-block;
+    float : left;
+    text-indent : none;
+    font-family : Arial;
+    text-decoration : none;*/
+  
+}
+
+.content{
+    text-align : justify;
+    font-family : Arial;
+}
+
+#menu-right{
+    border-top-right-radius : 10px;
+    border-bottom-right-radius : 10px;
+}
+
+#menu-left{
+    border-top-left-radius : 10px;
+    border-bottom-left-radius : 10px;
+}
