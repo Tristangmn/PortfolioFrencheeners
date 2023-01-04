@@ -7,7 +7,7 @@ h1{
 .menu-nav ul li.btn{
     list-style-type : none;
     display : inline-block;
-    float : left;
+    flottant : right ;
 }
 
 
